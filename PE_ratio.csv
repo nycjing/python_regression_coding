@@ -1,0 +1,503 @@
+Ticker,INDUSTRY_SECTOR,PE_RATIO
+A UN Equity,Industrial,20.42462143
+AA UN Equity,Basic Materials,16.91208294
+AAPL UW Equity,Technology,17.2614556
+ABBV UN Equity,"Consumer, Non-cyclical",20.06896232
+ABC UN Equity,"Consumer, Non-cyclical",567.8714013
+ABT UN Equity,"Consumer, Non-cyclical",31.48161734
+ACE UN Equity,Financial,11.51224487
+ACN UN Equity,Technology,19.63304675
+ACT UN Equity,"Consumer, Non-cyclical",105.0878172
+ADBE UW Equity,Technology,151.4352054
+ADI UW Equity,Technology,23.5468434
+ADM UN Equity,"Consumer, Non-cyclical",11.10879835
+ADP UW Equity,"Consumer, Non-cyclical",28.79395734
+ADS UN Equity,Communications,30.23428185
+ADSK UW Equity,Technology,160.7481541
+ADT UN Equity,"Consumer, Non-cyclical",18.30958684
+AEE UN Equity,Utilities,17.02074708
+AEP UN Equity,Utilities,16.04069776
+AES UN Equity,Utilities,10.85009611
+AET UN Equity,"Consumer, Non-cyclical",16.20844517
+AFL UN Equity,Financial,9.985096562
+AGN UN Equity,"Consumer, Non-cyclical",37.49895625
+AIG UN Equity,Financial,11.34949053
+AIV UN Equity,Financial,17.88675261
+AIZ UN Equity,Financial,10.24044492
+AKAM UW Equity,Technology,38.00957233
+ALL UN Equity,Financial,12.79567509
+ALLE UN Equity,Industrial,26.76826384
+ALTR UW Equity,Technology,23.47368441
+ALXN UW Equity,"Consumer, Non-cyclical",53.34318697
+AMAT UW Equity,Technology,22.49774673
+AME UN Equity,Industrial,21.51917687
+AMG UN Equity,Financial,26.21865373
+AMGN UW Equity,"Consumer, Non-cyclical",20.8623202
+AMP UN Equity,Financial,16.26682648
+AMT UN Equity,Financial,48.16051849
+AMZN UW Equity,Communications,#N/A N/A
+AN UN Equity,"Consumer, Cyclical",17.47439615
+ANTM UN Equity,"Consumer, Non-cyclical",16.54161284
+AON UN Equity,Financial,20.24250747
+APA UN Equity,Energy,140.7362252
+APC UN Equity,Energy,21.184987
+APD UN Equity,Basic Materials,25.75329256
+APH UN Equity,Industrial,15.06533898
+ARG UN Equity,Basic Materials,23.713115
+ATI UN Equity,Basic Materials,94.23603449
+AVB UN Equity,Financial,33.56988267
+AVGO UW Equity,Technology,50.17588949
+AVP UN Equity,"Consumer, Non-cyclical",11.43154057
+AVY UN Equity,"Consumer, Non-cyclical",17.00852495
+AXP UN Equity,Financial,15.91368634
+AZO UN Equity,"Consumer, Cyclical",19.42661076
+BA UN Equity,Industrial,20.77741916
+BAC UN Equity,Financial,11.3507776
+BAX UN Equity,"Consumer, Non-cyclical",17.12526326
+BBBY UW Equity,"Consumer, Cyclical",15.10224918
+BBT UN Equity,Financial,13.64951314
+BBY UN Equity,"Consumer, Cyclical",15.64419434
+BCR UN Equity,"Consumer, Non-cyclical",22.18995512
+BDX UN Equity,"Consumer, Non-cyclical",23.11605578
+BEN UN Equity,Financial,14.57001259
+BF/B UN Equity,"Consumer, Non-cyclical",28.25316417
+BHI UN Equity,Energy,14.78921665
+BIIB UW Equity,"Consumer, Non-cyclical",34.45344735
+BK UN Equity,Financial,13.93239123
+BLK UN Equity,Financial,19.72657959
+BLL UN Equity,Industrial,18.95406366
+BMY UN Equity,"Consumer, Non-cyclical",50.03586301
+BRCM UW Equity,Technology,27.04133569
+BRK/B UN Equity,Financial,#N/A Field Not Applicable
+BSX UN Equity,"Consumer, Non-cyclical",36.49386393
+BWA UN Equity,"Consumer, Cyclical",20.65993287
+BXP UN Equity,Financial,46.73188465
+C UN Equity,Financial,10.28326904
+CA UW Equity,Technology,16.96927997
+CAG UN Equity,"Consumer, Non-cyclical",14.87832609
+CAH UN Equity,"Consumer, Non-cyclical",24.0157204
+CAM UN Equity,Energy,11.04606227
+CAT UN Equity,Industrial,12.62113251
+CB UN Equity,Financial,13.13201147
+CBG UN Equity,Financial,25.84454765
+CBS UN Equity,Communications,20.4005947
+CCE UN Equity,"Consumer, Non-cyclical",15.1953387
+CCI UN Equity,Financial,70.24825312
+CCL UN Equity,"Consumer, Cyclical",22.80520992
+CELG UW Equity,"Consumer, Non-cyclical",46.60423542
+CERN UW Equity,Technology,46.11535059
+CF UN Equity,Basic Materials,15.32331287
+CFN UN Equity,"Consumer, Non-cyclical",23.43190502
+CHK UN Equity,Energy,21.91498513
+CHRW UW Equity,Industrial,24.19344292
+CI UN Equity,"Consumer, Non-cyclical",16.27694688
+CINF UW Equity,Financial,19.74371403
+CL UN Equity,"Consumer, Non-cyclical",24.38057501
+CLX UN Equity,"Consumer, Non-cyclical",24.65142544
+CMA UN Equity,Financial,15.30007425
+CMCSA UW Equity,Communications,20.56177163
+CME UW Equity,Financial,28.79402789
+CMG UN Equity,"Consumer, Cyclical",46.52063975
+CMI UN Equity,Industrial,16.28693673
+CMS UN Equity,Utilities,18.64357708
+CNP UN Equity,Utilities,15.94601364
+CNX UN Equity,Energy,36.05657928
+COF UN Equity,Financial,10.36766616
+COG UN Equity,Energy,23.93640993
+COH UN Equity,"Consumer, Cyclical",16.61908504
+COL UN Equity,Industrial,18.82229356
+COP UN Equity,Energy,11.41207728
+COST UW Equity,"Consumer, Cyclical",29.27929759
+CPB UN Equity,"Consumer, Non-cyclical",18.23829001
+CRM UN Equity,Technology,#N/A N/A
+CSC UN Equity,Technology,24.7995844
+CSCO UW Equity,Communications,16.68911905
+CSX UN Equity,Industrial,17.16701597
+CTAS UW Equity,"Consumer, Non-cyclical",26.38072135
+CTL UN Equity,Communications,24.8123814
+CTSH UW Equity,Technology,25.80979146
+CTXS UW Equity,Technology,34.78250152
+CVC UN Equity,Communications,19.01645851
+CVS UN Equity,"Consumer, Cyclical",24.06760116
+CVX UN Equity,Energy,10.22773823
+D UN Equity,Utilities,20.28695227
+DAL UN Equity,"Consumer, Cyclical",23.86752649
+DD UN Equity,Basic Materials,18.26851085
+DE UN Equity,Industrial,11.35021714
+DFS UN Equity,Financial,11.49447874
+DG UN Equity,"Consumer, Cyclical",21.44255655
+DGX UN Equity,"Consumer, Non-cyclical",17.77653845
+DHI UN Equity,"Consumer, Cyclical",16.20301663
+DHR UN Equity,Industrial,23.15988997
+DIS UN Equity,Communications,23.00196677
+DISCA UW Equity,Communications,18.26422717
+DISCK UW Equity,Communications,#N/A Field Not Applicable
+DLPH UN Equity,"Consumer, Cyclical",15.95723721
+DLTR UW Equity,"Consumer, Cyclical",25.60710116
+DNB UN Equity,Technology,16.06752571
+DNR UN Equity,Energy,8.326486147
+DO UN Equity,Energy,9.208537682
+DOV UN Equity,Industrial,14.78362816
+DOW UN Equity,Basic Materials,15.74891841
+DPS UN Equity,"Consumer, Non-cyclical",21.71771762
+DRI UN Equity,"Consumer, Cyclical",39.80404788
+DTE UN Equity,Utilities,15.58763005
+DTV UW Equity,Communications,14.4608845
+DUK UN Equity,Utilities,24.59589997
+DVA UN Equity,"Consumer, Non-cyclical",20.78756813
+DVN UN Equity,Energy,12.59340356
+EA UW Equity,Technology,18.76642511
+EBAY UW Equity,Communications,25.03333325
+ECL UN Equity,Basic Materials,27.79176803
+ED UN Equity,Utilities,15.8321038
+EFX UN Equity,"Consumer, Non-cyclical",31.2308367
+EIX UN Equity,Utilities,13.57004293
+EL UN Equity,"Consumer, Non-cyclical",27.3052201
+EMC UN Equity,Technology,18.73604109
+EMN UN Equity,Basic Materials,12.87280576
+EMR UN Equity,Industrial,15.37589475
+ENDP UW Equity,"Consumer, Non-cyclical",51.82747748
+EOG UN Equity,Energy,17.91927115
+EQR UN Equity,Financial,43.85975131
+EQT UN Equity,Energy,24.11653592
+ES UN Equity,Utilities,17.69262564
+ESRX UW Equity,"Consumer, Non-cyclical",24.95098548
+ESS UN Equity,Financial,69.96385748
+ESV UN Equity,Energy,#N/A N/A
+ETFC UW Equity,Financial,24.71758449
+ETN UN Equity,Industrial,14.57349345
+ETR UN Equity,Utilities,11.72833338
+EW UN Equity,"Consumer, Non-cyclical",42.29446959
+EXC UN Equity,Utilities,16.25462894
+EXPD UW Equity,Industrial,24.77604151
+EXPE UW Equity,Communications,27.08844726
+F UN Equity,"Consumer, Cyclical",12.89373913
+FAST UW Equity,"Consumer, Cyclical",24.27137895
+FB UW Equity,Communications,73.33636197
+FCX UN Equity,Basic Materials,8.788951342
+FDO UN Equity,"Consumer, Cyclical",28.07294568
+FDX UN Equity,Industrial,22.00504414
+FE UN Equity,Utilities,14.44555534
+FFIV UW Equity,Communications,26.81715645
+FIS UN Equity,Technology,26.36422164
+FISV UW Equity,Technology,27.35711728
+FITB UW Equity,Financial,10.65457327
+FLIR UW Equity,Industrial,21.37965599
+FLR UN Equity,Industrial,12.73724902
+FLS UN Equity,Industrial,15.85656113
+FMC UN Equity,Basic Materials,14.48552459
+FOSL UW Equity,"Consumer, Cyclical",11.45584403
+FOXA UW Equity,Communications,13.17073856
+FSLR UW Equity,Technology,15.65797665
+FTI UN Equity,Energy,14.32196756
+FTR UW Equity,Communications,44.57514181
+GAS UN Equity,Utilities,9.789759685
+GCI UN Equity,Communications,13.23477669
+GD UN Equity,Industrial,17.18101564
+GE UN Equity,Industrial,16.81272749
+GGP UN Equity,Financial,71.61762791
+GILD UW Equity,"Consumer, Non-cyclical",13.90476926
+GIS UN Equity,"Consumer, Non-cyclical",19.88273665
+GLW UN Equity,Industrial,11.95954489
+GM UN Equity,"Consumer, Cyclical",8.751986681
+GMCR UW Equity,"Consumer, Non-cyclical",34.74936388
+GME UN Equity,"Consumer, Cyclical",12.5469149
+GNW UN Equity,Financial,#N/A N/A
+GOOG UW Equity,Communications,#N/A Field Not Applicable
+GOOGL UW Equity,Communications,28.64116119
+GPC UN Equity,"Consumer, Cyclical",20.24295004
+GPS UN Equity,"Consumer, Cyclical",14.51590171
+GRMN UW Equity,Industrial,16.16683678
+GS UN Equity,Financial,10.42760136
+GT UW Equity,"Consumer, Cyclical",10.88250367
+GWW UN Equity,"Consumer, Cyclical",19.38852108
+HAL UN Equity,Energy,10.60543722
+HAR UN Equity,"Consumer, Cyclical",24.25566228
+HAS UW Equity,"Consumer, Cyclical",19.41135817
+HBAN UW Equity,Financial,13.90101035
+HCA UN Equity,"Consumer, Non-cyclical",15.71403195
+HCBK UW Equity,Financial,31.70177738
+HCN UN Equity,Financial,52.22794331
+HCP UN Equity,Financial,20.69332305
+HD UN Equity,"Consumer, Cyclical",24.57794657
+HES UN Equity,Energy,21.28511473
+HIG UN Equity,Financial,12.90046248
+HOG UN Equity,"Consumer, Cyclical",16.28165331
+HON UN Equity,Industrial,18.1835177
+HOT UN Equity,"Consumer, Cyclical",21.75083235
+HP UN Equity,Energy,10.86633878
+HPQ UN Equity,Technology,10.48705232
+HRB UN Equity,"Consumer, Non-cyclical",13.73428506
+HRL UN Equity,"Consumer, Non-cyclical",24.07321367
+HRS UN Equity,Communications,14.94257408
+HSP UN Equity,"Consumer, Non-cyclical",41.41897032
+HST UN Equity,Financial,21.1974342
+HSY UN Equity,"Consumer, Non-cyclical",25.06469197
+HUM UN Equity,"Consumer, Non-cyclical",21.62682268
+IBM UN Equity,Technology,9.632488264
+ICE UN Equity,Financial,24.69220793
+IFF UN Equity,Basic Materials,23.56932013
+INTC UW Equity,Technology,14.27775341
+INTU UW Equity,Technology,36.60079992
+IP UN Equity,Basic Materials,20.29822213
+IPG UN Equity,Communications,19.21542808
+IR UN Equity,Industrial,20.05794372
+IRM UN Equity,Financial,58.41869179
+ISRG UW Equity,"Consumer, Non-cyclical",37.77876631
+ITW UN Equity,Industrial,21.01639413
+IVZ UN Equity,Financial,18.43002732
+JCI UN Equity,"Consumer, Cyclical",15.09599093
+JEC UN Equity,Industrial,13.11956423
+JNJ UN Equity,"Consumer, Non-cyclical",16.91221921
+JNPR UN Equity,Communications,158.9717749
+JOY UN Equity,Industrial,12.36046467
+JPM UN Equity,Financial,10.36250024
+JWN UN Equity,"Consumer, Cyclical",21.68000081
+K UN Equity,"Consumer, Non-cyclical",25.81368013
+KEY UN Equity,Financial,13.53004244
+KIM UN Equity,Financial,28.34488604
+KLAC UW Equity,Technology,19.49600527
+KMB UN Equity,"Consumer, Non-cyclical",20.70976227
+KMI UN Equity,Energy,42.38842336
+KMX UN Equity,"Consumer, Cyclical",26.22541052
+KO UN Equity,"Consumer, Non-cyclical",20.90698907
+KORS UN Equity,"Consumer, Cyclical",16.05344139
+KR UN Equity,"Consumer, Non-cyclical",20.67758208
+KRFT UW Equity,"Consumer, Non-cyclical",33.94806093
+KSS UN Equity,"Consumer, Cyclical",17.33802831
+KSU UN Equity,Industrial,22.91520667
+L UN Equity,Financial,15.062845
+LB UN Equity,"Consumer, Cyclical",26.13180428
+LEG UN Equity,"Consumer, Cyclical",25.69837533
+LEN UN Equity,"Consumer, Cyclical",17.18117807
+LH UN Equity,"Consumer, Non-cyclical",19.45962665
+LLL UN Equity,Industrial,16.00795014
+LLTC UW Equity,Technology,23.37560886
+LLY UN Equity,"Consumer, Non-cyclical",27.08390614
+LM UN Equity,Financial,21.0297359
+LMT UN Equity,Industrial,17.1122911
+LNC UN Equity,Financial,10.00127988
+LO UN Equity,"Consumer, Non-cyclical",19.73594456
+LOW UN Equity,"Consumer, Cyclical",27.18900709
+LRCX UW Equity,Technology,21.04135569
+LUK UN Equity,Diversified,36.21784373
+LUV UN Equity,"Consumer, Cyclical",21.55605304
+LVLT UN Equity,Communications,38.98624314
+LYB UN Equity,Basic Materials,11.06176689
+M UN Equity,"Consumer, Cyclical",14.1485534
+MA UN Equity,"Consumer, Non-cyclical",28.6614421
+MAC UN Equity,Financial,8.630819972
+MAR UW Equity,"Consumer, Cyclical",31.63851694
+MAS UN Equity,Industrial,22.37556949
+MAT UW Equity,"Consumer, Cyclical",16.19954456
+MCD UN Equity,"Consumer, Cyclical",20.36024769
+MCHP UW Equity,Technology,27.0015463
+MCK UN Equity,"Consumer, Non-cyclical",27.62482322
+MCO UN Equity,"Consumer, Non-cyclical",22.12482263
+MDLZ UW Equity,"Consumer, Non-cyclical",19.10524897
+MDT UN Equity,"Consumer, Non-cyclical",19.21922645
+MET UN Equity,Financial,9.340651272
+MHFI UN Equity,"Consumer, Non-cyclical",34.37410529
+MHK UN Equity,"Consumer, Cyclical",23.50824019
+MJN UN Equity,"Consumer, Non-cyclical",28.57294553
+MKC UN Equity,"Consumer, Non-cyclical",21.85588026
+MLM UN Equity,Industrial,43.95660232
+MMC UN Equity,Financial,20.13308072
+MMM UN Equity,Industrial,22.15220269
+MNK UN Equity,"Consumer, Non-cyclical",97.92709861
+MNST UW Equity,"Consumer, Non-cyclical",48.07120271
+MO UN Equity,"Consumer, Non-cyclical",21.12568782
+MON UN Equity,Basic Materials,23.96239198
+MOS UN Equity,Basic Materials,17.34811119
+MPC UN Equity,Energy,13.03498828
+MRK UN Equity,"Consumer, Non-cyclical",18.63672396
+MRO UN Equity,Energy,14.78703276
+MS UN Equity,Financial,25.8485632
+MSFT UW Equity,Technology,16.18218195
+MSI UN Equity,Communications,27.27326697
+MTB UN Equity,Financial,16.79919158
+MU UW Equity,Technology,8.930534977
+MUR UN Equity,Energy,13.86949664
+MWV UN Equity,Industrial,23.98032656
+MYL UW Equity,"Consumer, Non-cyclical",18.49966962
+NAVI UW Equity,Financial,10.17134205
+NBL UN Equity,Energy,17.17359911
+NBR UN Equity,Energy,54.8177805
+NDAQ UW Equity,Financial,17.30005888
+NE UN Equity,Energy,5.213176849
+NEE UN Equity,Utilities,22.15650414
+NEM UN Equity,Basic Materials,23.1645496
+NFLX UW Equity,Communications,107.7500025
+NFX UN Equity,Energy,17.91311334
+NI UN Equity,Utilities,25.63974354
+NKE UN Equity,"Consumer, Cyclical",29.13353125
+NLSN UN Equity,Communications,36.78729202
+NOC UN Equity,Industrial,16.8291505
+NOV UN Equity,Energy,8.792301915
+NRG UN Equity,Utilities,1461.135534
+NSC UN Equity,Industrial,16.98435036
+NTAP UW Equity,Technology,19.00990175
+NTRS UW Equity,Financial,21.00916429
+NUE UN Equity,Basic Materials,20.86414946
+NVDA UW Equity,Technology,19.88845333
+NWL UN Equity,"Consumer, Cyclical",21.23077526
+NWSA UW Equity,Communications,29.01527668
+OI UN Equity,Industrial,12.49793461
+OKE UN Equity,Energy,25.01270088
+OMC UN Equity,Communications,18.10654007
+ORCL UN Equity,Technology,17.69013342
+ORLY UW Equity,"Consumer, Cyclical",28.2057219
+OXY UN Equity,Energy,18.50610629
+PAYX UW Equity,Technology,27.57904827
+PBCT UW Equity,Financial,17.51560984
+PBI UN Equity,Technology,11.61899755
+PCAR UW Equity,"Consumer, Cyclical",16.17717485
+PCG UN Equity,Utilities,16.17702136
+PCL UN Equity,Financial,35.69801053
+PCLN UW Equity,Communications,26.63900096
+PCP UN Equity,Industrial,16.59210489
+PDCO UW Equity,"Consumer, Non-cyclical",22.52877826
+PEG UN Equity,Utilities,13.80251052
+PEP UN Equity,"Consumer, Non-cyclical",21.13196794
+PETM UW Equity,"Consumer, Cyclical",19.21873592
+PFE UN Equity,"Consumer, Non-cyclical",18.18015694
+PFG UN Equity,Financial,14.04401251
+PG UN Equity,"Consumer, Non-cyclical",20.30363053
+PGR UN Equity,Financial,13.73581195
+PH UN Equity,Industrial,16.50422407
+PHM UN Equity,"Consumer, Cyclical",12.34544653
+PKI UN Equity,Industrial,30.01632652
+PLD UN Equity,Financial,27.90190862
+PLL UN Equity,Industrial,26.11455944
+PM UN Equity,"Consumer, Non-cyclical",16.02248642
+PNC UN Equity,Financial,13.57673935
+PNR UN Equity,Industrial,18.05815845
+PNW UN Equity,Utilities,17.27374306
+POM UN Equity,Utilities,21.13753699
+PPG UN Equity,Basic Materials,24.86302584
+PPL UN Equity,Utilities,15.10333239
+PRGO UN Equity,"Consumer, Non-cyclical",54.45639842
+PRU UN Equity,Financial,#N/A N/A
+PSA UN Equity,Financial,36.46666609
+PSX UN Equity,Energy,11.90208884
+PVH UN Equity,"Consumer, Cyclical",14.75281928
+PWR UN Equity,"Consumer, Non-cyclical",17.43220761
+PX UN Equity,Basic Materials,20.27704446
+PXD UN Equity,Energy,44.00716863
+QCOM UW Equity,Technology,14.82749864
+QEP UN Equity,Energy,15.55018941
+R UN Equity,Industrial,16.89857294
+RAI UN Equity,"Consumer, Non-cyclical",14.14574931
+RCL UN Equity,"Consumer, Cyclical",23.82951525
+REGN UW Equity,"Consumer, Non-cyclical",130.897999
+RF UN Equity,Financial,11.79922059
+RHI UN Equity,"Consumer, Non-cyclical",26.72444492
+RHT UN Equity,Technology,70.49580053
+RIG UN Equity,Energy,5.609807065
+RL UN Equity,"Consumer, Cyclical",16.28990549
+ROK UN Equity,Industrial,18.57681018
+ROP UN Equity,Industrial,26.00735085
+ROST UW Equity,"Consumer, Cyclical",23.88636329
+RRC UN Equity,Energy,32.58291721
+RSG UN Equity,Industrial,21.0420555
+RTN UN Equity,Industrial,15.49838423
+SBUX UW Equity,"Consumer, Cyclical",31.8005504
+SCG UN Equity,Utilities,15.24934296
+SCHW UN Equity,Financial,33.14806115
+SE UN Equity,Energy,21.91075349
+SEE UN Equity,Industrial,25.31402431
+SHW UN Equity,Basic Materials,32.94063059
+SIAL UW Equity,Basic Materials,31.67944405
+SJM UN Equity,"Consumer, Non-cyclical",19.90518779
+SLB UN Equity,Energy,14.90764669
+SNA UN Equity,Industrial,20.36360133
+SNDK UW Equity,Technology,18.90485569
+SNI UN Equity,Communications,19.16579333
+SO UN Equity,Utilities,15.77959382
+SPG UN Equity,Financial,38.27505582
+SPLS UW Equity,"Consumer, Cyclical",19.00818851
+SRCL UW Equity,Industrial,31.96252717
+SRE UN Equity,Utilities,23.31992641
+STI UN Equity,Financial,11.85426141
+STJ UN Equity,"Consumer, Non-cyclical",17.16821567
+STT UN Equity,Financial,14.71098445
+STX UW Equity,Technology,11.74878026
+STZ UN Equity,"Consumer, Non-cyclical",27.92871885
+SWK UN Equity,Industrial,17.60988277
+SWN UN Equity,Energy,10.50599893
+SYK UN Equity,"Consumer, Non-cyclical",25.72593511
+SYMC UW Equity,Communications,16.56180512
+SYY UN Equity,"Consumer, Non-cyclical",22.54967592
+T UN Equity,Communications,22.63518841
+TAP UN Equity,"Consumer, Non-cyclical",19.12198357
+TDC UN Equity,Technology,17.72891032
+TE UN Equity,Utilities,19.6349151
+TEG UN Equity,Utilities,23.36028985
+TEL UN Equity,Industrial,19.55347076
+TGT UN Equity,"Consumer, Cyclical",21.97852493
+THC UN Equity,"Consumer, Non-cyclical",28.66751119
+TIF UN Equity,"Consumer, Cyclical",20.15813545
+TJX UN Equity,"Consumer, Cyclical",21.65299665
+TMK UN Equity,Financial,14.66809176
+TMO UN Equity,Industrial,30.94656428
+TRIP UW Equity,Communications,55.58333275
+TROW UW Equity,Financial,18.29303784
+TRV UN Equity,Financial,10.07182367
+TSCO UW Equity,"Consumer, Cyclical",32.02631671
+TSN UN Equity,"Consumer, Non-cyclical",17.28343568
+TSO UN Equity,Energy,14.9146073
+TSS UN Equity,"Consumer, Non-cyclical",25.08945259
+TWC UN Equity,Communications,20.63133513
+TWX UN Equity,Communications,19.17972868
+TXN UW Equity,Technology,21.52261277
+TXT UN Equity,Industrial,19.86642085
+TYC UN Equity,Industrial,20.64632543
+UA UN Equity,"Consumer, Cyclical",79.88420988
+UHS UN Equity,"Consumer, Non-cyclical",20.62256951
+UNH UN Equity,"Consumer, Non-cyclical",20.47566454
+UNM UN Equity,Financial,21.5099437
+UNP UN Equity,Industrial,20.61999441
+UPS UN Equity,Industrial,21.23104707
+URBN UW Equity,"Consumer, Cyclical",23.20403961
+URI UN Equity,"Consumer, Non-cyclical",15.49688935
+USB UN Equity,Financial,14.53609347
+UTX UN Equity,Industrial,19.14342882
+V UN Equity,Financial,34.95114222
+VAR UN Equity,"Consumer, Non-cyclical",22.75587191
+VFC UN Equity,"Consumer, Cyclical",24.39579738
+VIAB UW Equity,Communications,12.67395791
+VLO UN Equity,Energy,9.14405051
+VMC UN Equity,Industrial,182.3430309
+VNO UN Equity,Financial,72.94508246
+VRSN UW Equity,Communications,25.20695894
+VRTX UW Equity,"Consumer, Non-cyclical",#N/A N/A
+VTR UN Equity,Financial,40.63646441
+VZ UN Equity,Communications,14.45124664
+WAT UN Equity,Industrial,22.26756678
+WBA UW Equity,"Consumer, Cyclical",35.95053034
+WDC UW Equity,Technology,15.19936559
+WEC UN Equity,Utilities,18.54480706
+WFC UN Equity,Financial,13.41707276
+WFM UW Equity,"Consumer, Non-cyclical",35
+WHR UN Equity,"Consumer, Cyclical",17.89725103
+WIN UW Equity,Communications,2520.285578
+WM UN Equity,Industrial,25.45919882
+WMB UN Equity,Energy,115.7769141
+WMT UN Equity,"Consumer, Cyclical",16.39087314
+WU UN Equity,"Consumer, Non-cyclical",12.31446536
+WY UN Equity,Financial,23.21181048
+WYN UN Equity,"Consumer, Cyclical",19.5126899
+WYNN UW Equity,"Consumer, Cyclical",18.53416146
+XEC UN Equity,Energy,18.93076192
+XEL UN Equity,Utilities,16.7093587
+XL UN Equity,Financial,10.88729066
+XLNX UW Equity,Technology,17.23940721
+XOM UN Equity,Energy,11.43356011
+XRAY UW Equity,"Consumer, Non-cyclical",26.22150169
+XRX UN Equity,Technology,13.40806702
+XYL UN Equity,Industrial,18.20969616
+YHOO UW Equity,Communications,35.83878921
+YUM UN Equity,"Consumer, Cyclical",25.4191086
+ZION UW Equity,Financial,14.21142674
+ZMH UN Equity,"Consumer, Non-cyclical",20.17805358
+ZTS UN Equity,"Consumer, Non-cyclical",32.81900918
